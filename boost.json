@@ -1,0 +1,23 @@
+{
+    "agents": [
+        "amp",
+        "claude_code",
+        "codex",
+        "cursor",
+        "gemini",
+        "copilot",
+        "opencode"
+    ],
+    "cloud": true,
+    "guidelines": true,
+    "mcp": true,
+    "nightwatch": false,
+    "sail": false,
+    "skills": [
+        "laravel-best-practices",
+        "wayfinder-development",
+        "inertia-react-development",
+        "tailwindcss-development",
+        "deploying-laravel-cloud"
+    ]
+}
